@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "moteur-Cq2XN8CX.js",
+    "file": "moteur-CdAYUw_X.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -79,7 +79,7 @@
     "src": "node_modules/@fontsource-variable/inter/files/inter-vietnamese-wght-normal.woff2"
   },
   "src/scene/Experience.jsx": {
-    "file": "morceaux/Experience-BGJF2nue.js",
+    "file": "morceaux/Experience-kdUsDlOL.js",
     "name": "Experience",
     "src": "src/scene/Experience.jsx",
     "isDynamicEntry": true,
