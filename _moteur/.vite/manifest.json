@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "moteur-BtAWvldk.js",
+    "file": "moteur-D2tfkiJu.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -8,7 +8,7 @@
       "src/scene/Experience.jsx"
     ],
     "css": [
-      "ressources/index-DDbP4TMS.css"
+      "ressources/index-DmLl1FvZ.css"
     ],
     "assets": [
       "ressources/fraunces-vietnamese-opsz-normal-Czevyj-6.woff2",
@@ -79,7 +79,7 @@
     "src": "node_modules/@fontsource-variable/inter/files/inter-vietnamese-wght-normal.woff2"
   },
   "src/scene/Experience.jsx": {
-    "file": "morceaux/Experience-wRsu9Nax.js",
+    "file": "morceaux/Experience-DR3BbiiF.js",
     "name": "Experience",
     "src": "src/scene/Experience.jsx",
     "isDynamicEntry": true,
